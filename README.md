@@ -1,3 +1,13 @@
+# simple-CRUD-interface
+
+## Stack:
+- react
+- redux
+- redux-saga
+- material-ui
+- i18n
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

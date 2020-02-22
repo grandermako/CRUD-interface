@@ -1,15 +1,11 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
 
 import './App.css';
+import Dashboard from './layouts/Dashboard/Dashboard';
 
 const App = () => {
-  const { t } = useTranslation();
-
   return (
-    <div>
-      {t('CRUD')}
-    </div>
+    <Dashboard />
   );
 };
 
